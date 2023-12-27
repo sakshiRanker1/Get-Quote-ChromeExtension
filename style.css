@@ -1,0 +1,42 @@
+
+*{
+
+  font-family: 'Carattere', cursive;
+
+}
+.container{
+  height: 220px;
+  width: 200px;
+  background-color: #F1B4BB;
+  color: black;
+  font-size: 30;
+  font-weight: 900;
+  padding: 15px 10px 10px 10px ;
+
+
+}
+.container button{
+  border-radius: 3px ;
+  border: 2px solid black;
+  background-color: #132043;
+  color: #F1B4BB;
+  font:15px;
+  text-align: center;
+  margin-left: 65px;
+
+}
+.container h3{
+
+  font-weight: 800px;
+  font:15px;
+ text-align: center;
+ color: #1F1717;
+
+}
+.container p{
+  text-align: center;
+  font-weight: 1000;
+  font-size: 25px;
+  color: #132043;
+}
+

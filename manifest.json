@@ -1,0 +1,22 @@
+{
+    "name":"GetQuote",
+    "version": "1.0.0",
+    "description":"A Quote Generation extension",
+    "manifest_version":3,
+    "author":"sakshijha",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Myextension"
+    },
+   
+      "icons": {
+        
+        "48": "icon-48.jpg"
+    
+    }
+    
+    
+
+    
+
+}
